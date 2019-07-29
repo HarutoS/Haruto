@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page 1</title>
+</head>
+<body>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="width:200px;height:300px;">
+
+
+<ul>
+<li>123</li>
+<li>abc</li>
+<li>ABC</li>
+</ul>
+
+<b style="font-size:300%;"><a href="https://https://en.wikipedia.org/wiki/Main_Page/", target = "_blank">this is wikipedia</a></b>
+
+<p>
+<b style="font-size:300%;"><a href="secondpage.html" style="color:rgb(200,50,50);">second page</a></b>
+</p>
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page 2</title>
+</head>
+<body>
+
+<p>
+<il>
+<ul>123</ul>
+<ul>abc</ul>
+<ul>ABC</ul>
+</il>
+</p>
+
+<p>
+<a href="firstpage.html">first page</a>
+</p>
+
+<table border=1>
+
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td bgcolor=blue>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+</tr>
+
+
+</table>
+
+
+		
+
+
+</body>
+
+</html>
